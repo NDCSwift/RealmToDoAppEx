@@ -34,6 +34,7 @@ TARGET → Signing & Capabilities → Team
 
 	•	If you see a code signing error, check that Team and Bundle ID are set.
 	•	If building for a device, ensure your provisioning profile supports the required capabilities (Push, iCloud, etc.).
+    •	You'll need to add Realm via Swift Package Manager https://github.com/realm/realm-swift
 
 📺 YouTube
-[Click here to check out the guide on YouTube](https://www.youtube.com/@NoahDoesCoding97)
+[Click here to check out the guide on YouTube](https://youtu.be/TbSw8E8vgcM)
